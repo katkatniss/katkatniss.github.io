@@ -1,7 +1,9 @@
 # Jing-Fang Jian (Katniss)
 
-Banqiao Dist., New Taipei City | (+886) 988-216-917 
-ivory0504@gmail.com | linkedin.com/in/jing-fang-jian-544b08b3/
+🏠 Banqiao Dist., New Taipei City | 📞(+886) 988-216-917 
+
+📧ivory0504@gmail.com | 🔗[linkedin.com/in/jing-fang-jian-544b08b3/](linkedin.com/in/jing-fang-jian-544b08b3/) | :octocat:[github.com/katkatniss](github.com/katkatniss
+)
 
 ## Skill
 JavaScript, Angular, jQuery, HTML, CSS, JAVA, Hibernate, Spring Boot, Flutter, PL/SQL, T-SQL, Git, iReport
