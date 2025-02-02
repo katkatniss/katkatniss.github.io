@@ -1,8 +1,8 @@
 # Jing-Fang Jian (Katniss)
 
-🏠 Banqiao Dist., New Taipei City | 📞(+886) 988-216-917 
+Banqiao Dist., New Taipei City | (+886) 988-216-917 
 
-📧ivory0504@gmail.com | 🔗[linkedin.com/in/jing-fang-jian-544b08b3/](linkedin.com/in/jing-fang-jian-544b08b3/) | :octocat:[github.com/katkatniss](github.com/katkatniss
+ivory0504@gmail.com | [linkedin.com/in/jing-fang-jian-544b08b3/](linkedin.com/in/jing-fang-jian-544b08b3/) | [github.com/katkatniss](github.com/katkatniss
 )
 
 ## Skill
