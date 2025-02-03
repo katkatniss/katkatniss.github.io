@@ -23,6 +23,8 @@ JavaScript, Angular, jQuery, HTML, CSS, JAVA, Hibernate, Spring Boot, Flutter, P
 ## Certificate
 - AWS Certified Solutions Architect - Associate certificate
 
+## Project
+- Developed a web app for dance comparison videos using React. **katkatniss.github.io/kat-cut/** | github.com/katkatniss/kat-cut
 
 ## Professional Development Course
 - CROSS PLATFORM APPLICATION DEVELOPMENT IN JAVA, INSTITUTE FOR INFORMATION INDUSTRY 2018  
